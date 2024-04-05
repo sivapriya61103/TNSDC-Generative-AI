@@ -1,2 +1,3 @@
 # TNSDC-Generative-AI
 Naan Mudhalvan
+Sentiment analysis is a natural language processing (NLP) technique used to determine the sentiment or emotional tone expressed in a piece of text. It involves analyzing the text to classify it as positive, negative, or neutral, based on the emotions conveyed by the words and phrases used. Sentiment analysis is commonly applied to social media posts, customer reviews, news articles, and other forms of textual data to gauge public opinion, market trends, and customer satisfaction. It has various applications in business, marketing, customer service, and social sciences.
